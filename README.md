@@ -1,4 +1,4 @@
-### Hi there 👋
+### I'm a software developer
 
 <!--
 **rafaelbmateus/rafaelbmateus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<center>
+<table>
+    <tr>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelbmateus&hide=html&layout=compact&theme=buefy" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=rafaelbmateys&theme=buefy"/></td>
+    </tr>   
+</table>
+</center>  
