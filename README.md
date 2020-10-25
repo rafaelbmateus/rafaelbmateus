@@ -12,7 +12,7 @@ With soft skills of teamwork, flexibility, communication between peers, feedback
 
 In constant learning in the world of technology and software development.
 
-When I am not programming I like to meet my friends, drink some beers and play the piano :piano:
+When I am not programming I like to meet my friends, drink some beers and play the piano :musical_keyboard:
 
 https://www.rafaelbmateus.com.br
 
