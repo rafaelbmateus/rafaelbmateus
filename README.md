@@ -6,7 +6,7 @@ Works as a software engineer in architecture oriented to microservices. Currentl
 
 I'm founder and coordinator of [whiteStone_dev](https://whitestonedev.com.br/) (group of software developers from Pedra Branca - Palhoça), which aims to disseminate knowledge and encourage new developers.
 
-More than 8 years with software development where I had experience with other programming languages such as Java, Ruby, Python, C #, PHP and Javascript. I highly values software architecture such as clean code, project organization and layout, agile development methods and eXtreme Programming practices.
+More than 8 years with software development where I had experience with other programming languages such as Java, Ruby, Python, C#, PHP and Javascript. I highly values software architecture such as clean code, project organization and layout, agile development methods and eXtreme Programming practices.
 
 With soft skills of teamwork, flexibility, communication between peers, feedback culture and motivated to engage the team and achieve results.
 
