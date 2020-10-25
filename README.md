@@ -1,25 +1,9 @@
 ### I'm a software developer
 
-<!--
-**rafaelbmateus/rafaelbmateus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"><img src="https://komarev.com/ghpvc/?username=rafaelbmateus&label=Profile%20views&color=0e75b6&style=flat" alt="rafaelbmateus"/></p>
 
-Here are some ideas to get you started:
+<p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rafaelbmateus" alt="rafaelbmateus"/></a></p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafaelbmateus&show_icons=true&locale=en&layout=compact" alt="rafaelbmateus" /></p>
 
-<center>
-<table>
-    <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelbmateus&hide=html&layout=compact&theme=buefy" /></td>
-        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=rafaelbmateys&theme=buefy"/></td>
-    </tr>   
-</table>
-</center>  
+![Github stats](https://github-readme-stats.vercel.app/api?username=rafaelbmateus)
