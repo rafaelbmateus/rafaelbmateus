@@ -1,5 +1,19 @@
 ### I'm a software developer
 
+Graduated in Information Systems from the University of Southern Santa Catarina, with two specializations: Project Management and Internet of Things.
+
+Works as a software engineer in architecture oriented to microservices. Currently, super focused on the Golang programming language and evolving DevOps skills.
+
+I'm founder and coordinator of whiteStone_dev (group of software developers from Pedra Branca - Palhoça), which aims to disseminate knowledge and encourage new developers.
+
+More than 8 years with software development where I had experience with other programming languages such as Java, Ruby, Python, C #, PHP and Javascript. I highly values software architecture such as clean code, project organization and layout, agile development methods and eXtreme Programming practices.
+
+With soft skills of teamwork, flexibility, communication between peers, feedback culture and motivated to engage the team and achieve results.
+
+In constant learning in the world of technology and software development.
+
+When I am not programming I like to meet my friends, drink some beers and play the piano :piano:
+
 <p align="left"><img src="https://komarev.com/ghpvc/?username=rafaelbmateus&label=Profile%20views&color=0e75b6&style=flat" alt="rafaelbmateus"/></p>
 
 <p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rafaelbmateus" alt="rafaelbmateus"/></a></p>
