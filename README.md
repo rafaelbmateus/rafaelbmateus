@@ -14,7 +14,7 @@ In constant learning in the world of technology and software development.
 
 When I am not programming I like to meet my friends, drink some beers :beers: and play the piano :musical_keyboard:
 
-https://www.rafaelbmateus.com.br
+https://rafaelbmateus.com.br
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
