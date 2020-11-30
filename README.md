@@ -14,7 +14,14 @@ In constant learning in the world of technology and software development.
 
 When I am not programming I like to meet my friends, drink some beers :beers: and play the piano :musical_keyboard:
 
-https://rafaelbmateus.com.br
+<p align="center">
+  <a href="https://rafaelbmateus.com.br">
+    <img alt="Website" src="https://img.shields.io/badge/Website-rafaelbmateus.com.br-blue?style=flat-square&logo=google-chrome">
+  </a>
+  <a href="https://www.linkedin.com/in/rafaelbmateus">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Rafael%20Mateus-blue?style=flat-square&logo=linkedin">
+  </a>
+</p>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
