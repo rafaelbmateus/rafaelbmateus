@@ -4,7 +4,7 @@ Graduated in Information Systems from the University of Southern Santa Catarina,
 
 Works as a software engineer in architecture oriented to microservices. Currently, super focused on the Golang programming language and evolving DevOps skills.
 
-I'm founder and coordinator of [whiteStone_dev](https://whitestonedev.com.br/) (group of software developers from Pedra Branca - Palhoça), which aims to disseminate knowledge and encourage new developers.
+I'm founder and coordinator of [whiteStone_dev](https://whitestonedev.com.br/), which aims to disseminate knowledge and encourage new developers.
 
 More than 8 years with software development where I had experience with other programming languages such as Java, Ruby, Python, C#, PHP and Javascript. I highly values clean architecture, project organization and layout, agile development methods and eXtreme Programming practices.
 
