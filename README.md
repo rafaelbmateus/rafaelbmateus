@@ -33,8 +33,8 @@ When I am not programming I like to meet my friends, drink some beers :beers: an
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rafaelbmateus&show_icons=true&locale=en&layout=compact" alt="rafaelbmateus" />
 </p>
 
+![snake gif](https://github.com/rafaelbmateus/rafaelbmateus/blob/output/github-contribution-grid-snake.svg)
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rafaelbmateus&label=Profile%20views&color=0e75b6&style=flat" alt="rafaelbmateus"/>
 </p>
-
-![snake gif](https://github.com/rafaelbmateus/rafaelbmateus/blob/output/github-contribution-grid-snake.gif)
