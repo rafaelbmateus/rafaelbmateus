@@ -34,10 +34,6 @@ When I am not programming I like to meet my friends, drink some beers :beers: an
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rafaelbmateus&show_icons=true&locale=en&layout=compact"/>
-</p>
-
-<p align="center">
   <img src="https://github.com/rafaelbmateus/rafaelbmateus/blob/output/github-contribution-grid-snake.svg"/>
 </p>
 
