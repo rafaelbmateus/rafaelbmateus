@@ -36,3 +36,5 @@ When I am not programming I like to meet my friends, drink some beers :beers: an
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rafaelbmateus&label=Profile%20views&color=0e75b6&style=flat" alt="rafaelbmateus"/>
 </p>
+
+![snake gif](https://github.com/rafaelbmateus/rafaelbmateus/blob/output/github-contribution-grid-snake.gif)
