@@ -37,6 +37,19 @@ When I am not programming I like to meet my friends, drink some beers :beers: an
   <img src="https://github-profile-trophy.vercel.app/?username=rafaelbmateus"/>
 </p>
 
+![](https://img.shields.io/badge/Vault-000000?style=for-the-badge&logo=vault&logoColor=white)
+![](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
+![](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white)
+![](https://img.shields.io/badge/RASPBERRY%20PI-C51A4A.svg?&style=for-the-badge&logo=raspberry%20pi&logoColor=white)
+![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
+
 <p align="center">
   <a href="https://xkcd.com/">
     <img src="https://imgs.xkcd.com/comics/chemicals.png"/>
