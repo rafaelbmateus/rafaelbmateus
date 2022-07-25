@@ -29,10 +29,6 @@ When I am not programming I like to meet my friends, drink some beers :beers: an
   </a>
 </p>
 
-<p align="center">
-  <img src="https://github.com/rafaelbmateus/rafaelbmateus/blob/output/github-contribution-grid-snake.svg"/>
-</p>
-
 ![](https://img.shields.io/badge/Vault-000000?style=for-the-badge&logo=vault&logoColor=white)
 ![](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
 ![](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
@@ -45,6 +41,10 @@ When I am not programming I like to meet my friends, drink some beers :beers: an
 ![](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
+
+<p align="center">
+  <img src="https://github.com/rafaelbmateus/rafaelbmateus/blob/output/github-contribution-grid-snake.svg"/>
+</p>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=rafaelbmateus"/>
