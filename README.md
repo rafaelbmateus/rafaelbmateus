@@ -1,12 +1,12 @@
-### I'm a software developer
+### 👋 Hi, I'm Rafael Mateus! Software Developer constantly learning and sharing knowledge with the community.
 
-Graduated in Information Systems from the University of Southern Santa Catarina, with two specializations: Project Management and Internet of Things.
+Graduated in Information Systems from the [University of Southern Santa Catarina](https://www.unisul.br), with two specializations: Project Management and Internet of Things.
 
 Works as a software engineer in architecture oriented to microservices. Currently, super focused on the Golang programming language and evolving DevOps skills.
 
 I'm founder and coordinator of [whiteStone_dev](https://whitestonedev.com.br/), which aims to disseminate knowledge and encourage new developers.
 
-More than 8 years with software development where I had experience with other programming languages such as Java, Ruby, Python, C#, PHP and Javascript. I highly values clean architecture, project organization and layout, agile development methods and eXtreme Programming practices.
+More than 10 years with software development where I had experience with other programming languages such as Java, Ruby, Python, C#, PHP and Javascript. I highly values clean architecture, project organization and layout, agile development methods and eXtreme Programming practices.
 
 With soft skills of teamwork, flexibility, communication between peers, feedback culture and motivated to engage the team and achieve results.
 
