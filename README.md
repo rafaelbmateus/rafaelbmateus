@@ -30,11 +30,11 @@ When I am not programming I like to meet my friends, drink some beers :beers: an
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rafaelbmateus"/>
+  <img src="https://github.com/rafaelbmateus/rafaelbmateus/blob/output/github-contribution-grid-snake.svg"/>
 </p>
 
 <p align="center">
-  <img src="https://github.com/rafaelbmateus/rafaelbmateus/blob/output/github-contribution-grid-snake.svg"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=rafaelbmateus"/>
 </p>
 
 <p align="center">
