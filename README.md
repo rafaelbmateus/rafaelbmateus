@@ -63,7 +63,7 @@ When I am not programming I like to meet my friends, drink some beers :beers: an
 ![](https://img.shields.io/badge/Open%20API-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white)
 ![](https://img.shields.io/badge/VS%20Code-147EFB?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![](https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counterstricke&logoColor=white)
+![](https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counterstrike&logoColor=white)
 
 <p align="center">
   <a href="https://rafaelbmateus.com.br">
