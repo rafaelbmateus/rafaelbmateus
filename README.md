@@ -21,15 +21,6 @@ When I am not programming I like to meet my friends, drink some beers :beers: an
 </p>
 
 <p align="center">
-  <a href="https://rafaelbmateus.com.br">
-    <img alt="Website" src="https://img.shields.io/badge/Website-rafaelbmateus.com.br-blue?style=flat-square&logo=google-chrome">
-  </a>
-  <a href="https://www.linkedin.com/in/rafaelbmateus">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Rafael%20Mateus-blue?style=flat-square&logo=linkedin">
-  </a>
-</p>
-
-<p align="center">
   <img src="https://github.com/rafaelbmateus/rafaelbmateus/blob/output/github-contribution-grid-snake.svg"/>
 </p>
 
@@ -55,6 +46,15 @@ When I am not programming I like to meet my friends, drink some beers :beers: an
 ![](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
+
+<p align="center">
+  <a href="https://rafaelbmateus.com.br">
+    <img alt="Website" src="https://img.shields.io/badge/Website-rafaelbmateus.com.br-blue?style=flat-square&logo=google-chrome">
+  </a>
+  <a href="https://www.linkedin.com/in/rafaelbmateus">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Rafael%20Mateus-blue?style=flat-square&logo=linkedin">
+  </a>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rafaelbmateus&label=Profile%20views&color=0e75b6&style=flat"/>
