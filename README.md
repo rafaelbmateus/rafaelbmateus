@@ -55,6 +55,7 @@ When I am not programming I like to meet my friends, drink some beers :beers: an
 ![](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
 ![](https://img.shields.io/badge/API%20Gateway-FF4F8B?style=for-the-badge&logo=amazonapigateway&logoColor=white)
 ![](https://img.shields.io/badge/Open%20API-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white)
+![](https://img.shields.io/badge/VS%20Code-147EFB?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 <p align="center">
   <a href="https://rafaelbmateus.com.br">
