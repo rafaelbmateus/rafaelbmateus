@@ -67,6 +67,7 @@ When I am not programming I like to meet my friends, drink some beers :beers: an
 ![](https://img.shields.io/badge/VS%20Code-147EFB?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![](https://img.shields.io/badge/Jamboard-F37C20?style=for-the-badge&logo=jamboard&logoColor=white)
 ![](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![](https://img.shields.io/badge/Meetup-ED1C40?style=for-the-badge&logo=meetup&logoColor=white)
 ![](https://img.shields.io/badge/CS_GO-000000?style=for-the-badge&logo=counterstrike&logoColor=white)
 
 <p align="center">
