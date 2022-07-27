@@ -14,7 +14,7 @@ With soft skills of teamwork, flexibility, communication between peers, feedback
 
 In constant learning in the world of technology and software development.
 
-When I am not programming I like to meet my friends, drink some beers :beers: and play the piano :musical_keyboard:
+When I am not programming I like to play the piano :musical_keyboard:
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rafaelbmateus"/>
