@@ -2,25 +2,25 @@
 
 **Software Developer constantly learning and sharing knowledge with the community.**
 
-📚 Graduated in **Information Systems** from the [University of Southern Santa Catarina](https://www.unisul.br),
+- 📚 Graduated in **Information Systems** from the [University of Southern Santa Catarina](https://www.unisul.br),
 with two specializations: **Project Management** and **Internet of Things**.
 
-🔨 Works as **Software Engineer** in architecture oriented to **microservices**.
+- 🔨 Works as **Software Engineer** in architecture oriented to **microservices**.
 Currently, super focused on **Golang** and **DevOps** skills.
 
-💡 I'm founder and coordinator of **[whiteStone_dev](https://whitestonedev.com.br)**,
-which aims to disseminate knowledge and **encourage new developers**.
-
-💼 More than 10 years with software development where I had **experience with other programming languages**
+  > More than 10 years with software development where I had **experience with other programming languages**
 such as **Ruby, Python, C#, Vue and JavaScript**. I highly values **clean architecture**,
 **project organization layout** and **agile development** methods like **eXtreme Programming** practices.
 
-🚀 With soft skills of **teamwork**, **flexibility**, communication between peers,
+- 💡 I'm founder and coordinator of **[whiteStone_dev](https://whitestonedev.com.br)**,
+which aims to disseminate knowledge and **encourage new developers**.
+
+- 🚀 With soft skills of **teamwork**, **flexibility**, communication between peers,
 **feedback culture** and **motivated to engage the team and achieve results**.
 
-**In constant learning in the world of technology and software development.**
+- 💻 In **constant learning** in the world of **technology and software development**.
 
-🎹 When I am not programming I like to **play the piano** 🎶
+- 🎹 When I am not programming I like to **play the piano** 🎶
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rafaelbmateus"/>
