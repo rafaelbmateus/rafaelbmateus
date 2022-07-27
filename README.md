@@ -1,11 +1,18 @@
 ### 👋 Hi, I'm Rafael Mateus!
 
-**Software Developer constantly learning and sharing knowledge with the community.**
+```golang
+name := "Rafael Mateus"
+role := "Software Developer"
+goal := "constantly learning and sharing knowledge with the community"
+
+fmt.sprintf("%s is a %s with %s.", name, role, goal)
+// Rafael Mateus is a Software Developer constantly learning and sharing knowledge with the community.
+```
 
 - 📚 Graduated in **Information Systems** from the [University of Southern Santa Catarina](https://www.unisul.br),
 with two specializations: **Project Management** and **Internet of Things**.
 
-- 🔨 Works as **Software Engineer** in architecture oriented to **microservices**.
+- 🤓 Works as **Software Engineer** in architecture oriented to **microservices**.
 Currently, super focused on **Golang** and **DevOps** skills.
 
   > More than 10 years with software development where I had **experience with other programming languages**
