@@ -30,7 +30,7 @@ When I am not programming I like to meet my friends, drink some beers :beers: an
 
 <p align="center">
   <a href="https://xkcd.com/">
-    <img src="https://imgs.xkcd.com/comics/chemicals.png"/>
+    <img src="https://imgs.xkcd.com/comics/git.png"/>
   </a>
 </p>
 
