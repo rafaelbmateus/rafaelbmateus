@@ -28,12 +28,6 @@ When I am not programming I like to meet my friends, drink some beers :beers: an
   <img src="https://github-profile-trophy.vercel.app/?username=rafaelbmateus"/>
 </p>
 
-<p align="center">
-  <a href="https://xkcd.com/">
-    <img src="https://imgs.xkcd.com/comics/git.png"/>
-  </a>
-</p>
-
 ![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![](https://img.shields.io/badge/Alpine-0D597F?style=for-the-badge&logo=alpinelinux&logoColor=black)
 ![](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
@@ -72,6 +66,12 @@ When I am not programming I like to meet my friends, drink some beers :beers: an
 ![](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![](https://img.shields.io/badge/Meetup-ED1C40?style=for-the-badge&logo=meetup&logoColor=white)
 ![](https://img.shields.io/badge/CS_GO-000000?style=for-the-badge&logo=counterstrike&logoColor=white)
+
+<p align="center">
+  <a href="https://xkcd.com/">
+    <img src="https://imgs.xkcd.com/comics/git.png"/>
+  </a>
+</p>
 
 <p align="center">
   <a href="https://rafaelbmateus.com.br">
