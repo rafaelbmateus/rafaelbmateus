@@ -5,7 +5,7 @@ name := "Rafael Mateus"
 role := "Software Developer"
 goal := "constantly learning and sharing knowledge with the community"
 
-fmt.sprintf("%s is a %s with %s.", name, role, goal)
+fmt.sprintf("%s is a %s %s.", name, role, goal)
 // Rafael Mateus is a Software Developer constantly learning and sharing knowledge with the community.
 ```
 
