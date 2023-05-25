@@ -81,9 +81,7 @@ which aims to disseminate knowledge and **encourage new developers**.
 ![](https://img.shields.io/badge/CS_GO-000000?style=for-the-badge&logo=counterstrike&logoColor=white)
 
 <p align="center">
-  <a href="https://xkcd.com/">
-    <img src="https://imgs.xkcd.com/comics/git.png"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=rafaelbmateus&theme=radical">
 </p>
 
 <p align="center">
