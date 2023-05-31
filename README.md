@@ -81,10 +81,6 @@ which aims to disseminate knowledge and **encourage new developers**.
 ![](https://img.shields.io/badge/CS_GO-000000?style=for-the-badge&logo=counterstrike&logoColor=white)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rafaelbmateus&theme=radical">
-</p>
-
-<p align="center">
   <a href="https://rafaelbmateus.com.br">
     <img src="https://img.shields.io/badge/WebPage-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white">
   </a>
