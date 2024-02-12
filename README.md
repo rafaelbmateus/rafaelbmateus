@@ -19,8 +19,8 @@ Currently, super focused on **Golang** and **DevOps** skills.
 such as **Ruby, Python, C#, Vue and JavaScript**. I highly values **clean architecture**,
 **project organization layout** and **agile development** methods like **eXtreme Programming** practices.
 
-- 💡 I'm founder and coordinator of **[whiteStone_dev](https://whitestonedev.com.br)**,
-which aims to disseminate knowledge and **encourage new developers**.
+- 💡 I'm founder of **[API Floripa](https://apifloripa.com.br)**, **[Cloud Native Florioa](https://community.cncf.io/cloud-native-floripa)** and **[whiteStone_dev](https://whitestonedev.com.br)** groups,
+which aims to **disseminate knowledge** and **encourage new developers**.
 
 - 🚀 With soft skills of **teamwork**, **flexibility**, communication between peers,
 **feedback culture** and **motivated to engage the team and achieve results**.
