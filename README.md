@@ -33,10 +33,6 @@ which aims to disseminate knowledge and **encourage new developers**.
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rafaelbmateus"/>
 </p>
 
-<p align="center">
-  <img src="https://github.com/rafaelbmateus/rafaelbmateus/blob/output/github-contribution-grid-snake.svg"/>
-</p>
-
 ![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![](https://img.shields.io/badge/Alpine-0D597F?style=for-the-badge&logo=alpinelinux&logoColor=black)
 ![](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
