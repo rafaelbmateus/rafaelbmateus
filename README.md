@@ -15,7 +15,7 @@ with two specializations: **Project Management** and **Internet of Things**.
 - 🤓 Works as **Software Engineer** in architecture oriented to **microservices**.
 Currently, super focused on **Golang** and **DevOps** skills.
 
-  > More than 10 years with software development where I had **experience with other programming languages**
+  > More than 12 years with software development where I had **experience with other programming languages**
 such as **Ruby, Python, C#, Vue and JavaScript**. I highly values **clean architecture**,
 **project organization layout** and **agile development** methods like **eXtreme Programming** practices.
 
