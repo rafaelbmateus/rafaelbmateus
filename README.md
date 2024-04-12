@@ -5,29 +5,32 @@ name := "Rafael Mateus"
 role := "Software Developer"
 goal := "constantly learning and sharing knowledge with the community"
 
-fmt.sprintf("%s is a %s %s.", name, role, goal)
-// Rafael Mateus is a Software Developer constantly learning and sharing knowledge with the community.
+bio := fmt.Sprintf("%s is a %s %s.", name, role, goal)
+fmt.Println(bio)
 ```
 
-- 📚 Graduated in **Information Systems** from the [University of Southern Santa Catarina](https://www.unisul.br),
-with two specializations: **Project Management** and **Internet of Things**.
+- 📚 I hold a bachelor's degree in **Information Systems** from [UNISUL](https://www.unisul.br)
+and have completed two specializations: one in **IoT** and another in **Project Management**.
 
-- 🤓 Works as **Software Engineer** in architecture oriented to **microservices**.
-Currently, super focused on **Golang** and **DevOps** skills.
+- 🤓 I'm a **software engineer** immersed in the world of **microservices** architecture,
+currently delving deep into **Golang** and **DevOps culture**.
 
   > More than 12 years with software development where I had **experience with other programming languages**
 such as **Ruby, Python, C#, Vue and JavaScript**. I highly values **clean architecture**,
 **project organization layout** and **agile development** methods like **eXtreme Programming** practices.
 
-- 💡 I'm founder of **[API Floripa](https://apifloripa.com.br)**, **[Cloud Native Floripa](https://community.cncf.io/cloud-native-floripa)** and **[whiteStone_dev](https://whitestonedev.com.br)** groups,
+- 💡 I enjoy organizing meetups like
+**[API Floripa](https://apifloripa.com.br)**,
+**[Cloud Native Floripa](https://community.cncf.io/cloud-native-floripa)**
+and **[whiteStone_dev](https://www.instagram.com/whitestonedev)**
 which aims to **disseminate knowledge** and **encourage new developers**.
 
-- 🚀 With soft skills of **teamwork**, **flexibility**, communication between peers,
-**feedback culture** and **motivated to engage the team and achieve results**.
+- 🚀 I always strive to develop **human skills** such as **teamwork**, **flexibility**,
+a culture of giving and receiving **feedback**, and being motivated to **engage the team and achieve results**.
 
-- 💻 In **constant learning** in the world of **technology and software development**.
+- 💻 Dedicated to **continuous learning** in the dynamic realm of **technology** as a **software engineer**."
 
-- 🎹 When I am not programming I like to **play the piano** 🎶
+- 🎹 When I'm not coding, I enjoy **playing the piano**. 🎶
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rafaelbmateus"/>
