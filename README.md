@@ -2,7 +2,7 @@
 
 ```golang
 name := "Rafael Mateus"
-role := "Software Developer"
+role := "Software Engineer"
 goal := "constantly learning and sharing knowledge with the community"
 
 bio := fmt.Sprintf("%s is a %s %s.", name, role, goal)
